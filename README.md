@@ -11,4 +11,4 @@ In this homework, we are going to setup a Hadoop distributed file system with a 
  • Data processor
   • Saves the data to the HDFS while file receiver receiving the data.
 
-![image](https://github.com/catvmzhang/OS/blob/master/os_hw4.PNG)
+![image](https://github.com/catvmzhang/OSCourses_HDFS/blob/master/os_hw4.PNG)
